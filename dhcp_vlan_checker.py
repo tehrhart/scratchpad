@@ -22,7 +22,7 @@ def main():
 		print "%s version %s by %s (%s)" % (sys.argv[0], __version__, 
 			__author__, __email__)
 		print "Usage: "
-		print "\t%s <interface> [delay]" % (sys.argv[0])
+		print "\t%s <interface> [# of packets per second]" % (sys.argv[0])
 		sys.exit(1)
 		
 	else:
