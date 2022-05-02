@@ -37,7 +37,7 @@ from datetime import datetime, timedelta
 import time
 
 # Google Maps API Key
-googleMapsKey = "AIzaSyCvLIHZHxBdJIf_AG2e7ZEb5WXtTL0fYTI"
+googleMapsKey = "XXXXXXXXXXXX"
 
 # Skywatch client credentials (API key)
 sw_url = "https://api.skywatch.co/earthcache"
